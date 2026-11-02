@@ -26,6 +26,18 @@
 
 [查看源码与运行说明](https://github.com/William-orign/CS305-2026Spring-Project)
 
+### File Organizer 文件整理工具
+
+使用 Python 标准库开发的命令行工具，用于整理文件夹第一层的文件。
+
+- 按扩展名自动分类，跳过子文件夹
+- 默认只预览，确认后再执行
+- 同名文件自动编号，不覆盖已有文件
+- 记录移动日志，支持撤销
+- 已通过临时文件测试，验证分类、重名避让与撤销保护
+
+[查看源码与中文使用说明](https://github.com/William-orign/file-organizer)
+
 ## 正在做
 
 - 整理已有项目的文档与演示
