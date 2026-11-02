@@ -14,10 +14,17 @@
 
 ## 项目展示
 
-### CS305 网络课程项目
-围绕计算机网络进行实践，项目内容和运行方式见仓库说明。
+### SDN 网络控制器与 DHCP 服务
 
-[查看项目](https://github.com/William-orign/CS305-2026Spring-Project)
+南方科技大学 CS305 课程项目，基于 Python、os-ken 和 Mininet，
+实现 DHCP 地址分配、最短路径交换和防火墙功能。
+项目已完成课程全部要求，并在课程验收时通过全部测试。
+
+我主要负责：
+- SDN 控制器：拓扑维护、ARP 处理、最短路径计算与流表下发。
+- DHCP 服务：地址分配、报文响应和租约管理。
+
+[查看源码与运行说明](https://github.com/William-orign/CS305-2026Spring-Project)
 
 ## 正在做
 
